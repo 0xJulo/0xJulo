@@ -1,3 +1,1 @@
-# Hi there, I'm Julo 👋
-
-Digital Artist & Designer
+Designer venturing into the world of code. 
